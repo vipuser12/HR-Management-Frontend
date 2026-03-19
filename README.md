@@ -39,7 +39,8 @@ A modern, full-stack Human Resources Management platform designed to streamline 
 
 ## 📸 Project Preview
 *(Tip: Replace these placeholders with your actual screenshots)*
-![Login Page](https://via.placeholder.com/800x400?text=Login+Screen)
+![Login Page](<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/f3b14cda-fb63-4f64-b677-23af0f122b7c" />
+)
 ![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Overview)
 
 ---
